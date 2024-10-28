@@ -6,7 +6,6 @@ import java.util.Scanner;
  */
 class KamusEngToIndo implements KamusSederhana {
     HashMap<String, String> englishToIndonesian = new HashMap<>(); //raname dari engToIndo ke englishToIndonesian
-
     /**
      * konstruktor default yang berisi kosa kata bahasa inggris beserta dengan artinya
      */
